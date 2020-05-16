@@ -23,7 +23,7 @@ Treb controls frequencies over 750Hz
 Both bass & treb have a cut/boost dial to further hone the users tone.
 
 DEMO
-A demonstration of the VSTs can be found here
+A demonstration of the VSTs can be found here:
 https://www.youtube.com/watch?v=gu4198DzCO4&t=1s
 
 CONTRIBUTING
@@ -31,7 +31,7 @@ If you would like to contribute to this repository, please contact me first via 
 This repository does not include the builds folder for JUCE, as such contributions would need to be built via Projucer first.
 
 LICENSE
-This project was developed under the General Public License (GNU)
+This project was developed under the General Public License (GNU):
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 ACKNOWLEDGEMENTS
@@ -40,10 +40,10 @@ This VST was developed for submission as part of a submission for the Masters in
 Special thanks to the courses lecturer Rory Walsh for his help & input.
 
 Further resources which assisted the development of this project:
-The Audio Programmer YouTube Channel
+The Audio Programmer YouTube Channel:
 https://www.youtube.com/theaudioprogrammer
 
-JUCE Tutorials
+JUCE Tutorials:
 https://juce.com/learn/tutorials
 
 
