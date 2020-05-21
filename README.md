@@ -45,7 +45,7 @@ This repository does not include the builds folder for JUCE, as such contributio
 
 ### LICENSE
 
-This project was developed under the [General Public License (GNU)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+This project was developed under the [General Public License (GNU)](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ### ACKNOWLEDGEMENTS
 
